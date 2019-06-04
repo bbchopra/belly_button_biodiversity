@@ -1,6 +1,7 @@
-# belly_button_biodiversity
+# Belly_Button_Biodiversity
 
 Build an interactive dashboard to explore the Belly Button Biodiversity DataSet.
+
 ---
 # Check out the application:
 Step 1 - Plotly.js
@@ -15,6 +16,7 @@ Update all of the plots any time that a new sample is selected.
 Step 2 - Heroku
 Deploy the Flask app to Heroku.
 https://bbb-plot.herokuapp.com/
+
 ---
 # Copyright
 UCB @ Bharat Chopra © 2019. All Rights Reserved.
